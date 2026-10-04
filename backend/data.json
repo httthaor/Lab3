@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun basic",
+    "price": 150000
+  },
+  {
+    "id": 2,
+    "name": "Quần jeans slim",
+    "price": 450000
+  }
+]
